@@ -1,23 +1,30 @@
-# Downloader Portable
+Downloader Portable
 
 Gerenciador de downloads simples feito em Python.
 
-## Funcionalidades
+Screenshot: https://i.ibb.co/5WqBcn0k/Capturar.png
+
+Funcionalidades:
 
 - Download de arquivos HTTP/HTTPS
 - Pausar e continuar downloads
 - Retomar downloads interrompidos
-- Minimizar para bandeja
-- Interface simples
+- Interface simples e organizada
+- Velocidade otimizada
 
-## Como Usar
+Como Usar:
 
-**Baixe o executável pronto:**
-- Vá em [Releases](https://github.com/carlostmj/python-SimplesDownloaderPortable/releases)
-- Baixe o arquivo `.exe`
+Baixe o executável pronto:
+- Vá em Releases: https://github.com/carlostmj/python-SimplesDownloaderPortable/releases
+- Baixe o arquivo .exe
 - Execute
 
-**Ou rode do código fonte:**
-```bash
+Ou rode do código fonte:
 pip install -r requirements.txt
 python downloader.py
+
+Dependências:
+requests
+
+Autor: CarlosTMJ - v2.0.0
+Licença: MIT
